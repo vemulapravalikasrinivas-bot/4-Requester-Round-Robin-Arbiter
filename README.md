@@ -408,9 +408,9 @@ The testbench produces a final report containing:
 =================================================
  FINAL REPORT
 =================================================
-Total checks : ...
-Passed       : ...
-Failed       : ...
+Total checks : 441  
+Passed       : 441
+Failed       : 0
 =================================================
 ```
 
