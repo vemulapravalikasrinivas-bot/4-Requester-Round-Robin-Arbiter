@@ -435,8 +435,11 @@ When all checks pass:
 ├── tb/
 │   └── tb_rr_arbiter.v
 │
-├── results/
-│   └── simulation_results.txt
+├── schematic/
+│   └── schematic_silicon.pdf
+│ 
+├── simulation/
+│   └── DUT(s) results.pdf
 ```
 
 ---
